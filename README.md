@@ -1,1 +1,1 @@
-#Created a simple web app using ChakraUi
+# Created a simple web-app using ChakraUI
